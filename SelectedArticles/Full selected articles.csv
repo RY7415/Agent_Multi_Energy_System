@@ -1,0 +1,91 @@
+﻿Authors,Title,Year,Source,DOI,ISSN
+"B Farshidian, AR Ghahnavieh",A comprehensive framework for optimal planning of competing energy hubs based on the game theory,2021,Sustainable Energy Grids & Networks,10.1016/j.segan.2021.100513,2352-4677
+"S. Tian, Y. Lu, X. Ge, Y. Zheng",An agent-based modeling approach combined with deep learning method in simulating household energy consumption,2021,Journal Of Building Engineering,10.1016/j.jobe.2021.103210,23527102 (ISSN)
+"WZ Li, HX Li, SW Wang",An event-driven multi-agent based distributed optimal control strategy for HVAC systems in IoT-enabled smart buildings,2021,Automation In Construction,10.1016/j.autcon.2021.103919,1872-7891
+"W. Devia, K. Agbossou, A. Cardenas",An evolutionary approach to modeling and control of space heating and thermal storage systems,2021,Energy And Buildings,10.1016/j.enbuild.2020.110674,03787788 (ISSN)
+"Y Kou, YH Wang, ZH Bie, X Wang, T Ding",Distributed accelerated descent algorithm for energy resource coordination in multi-agent integrated energy systems,2021,Iet Generation Transmission & Distribution,10.1049/gtd2.12142,1751-8695
+"B Li, JW Wang",Economic Dispatch Methods for Smart Grid Based on Improved SPEA2 and Improved NSGA2,2021,Frontiers In Energy Research,10.3389/fenrg.2021.767721,2296-598X
+"GK Farinis, FD Kanellos",Integrated energy management system for Microgrids of building prosumers,2021,Electric Power Systems Research,10.1016/j.epsr.2021.107357,1873-2046
+"A. Kumari, S. Tanwar",Multiagent-based secure energy management for multimedia grid communication using Q-learning,2021,Multimedia Tools And Applications,10.1007/s11042-021-11491-x,13807501 (ISSN)
+"J. Dong, H. Wang, J. Yang, X. Lu, L. Gao, X. Zhou",Optimal Scheduling Framework of Electricity-Gas-Heat Integrated Energy System Based on Asynchronous Advantage Actor-Critic Algorithm,2021,Ieee Access,10.1109/ACCESS.2021.3114335,21693536 (ISSN)
+"Y Kou, ZH Bie, GF Li, F Liu, JF Jiang",Reliability evaluation of multi-agent integrated energy systems with fully distributed communication,2021,Energy,10.1016/j.energy.2021.120123,1873-6785
+"M Ahrens, F Kern, H Schmeck",Strategies for an Adaptive Control System to Improve Power Grid Resilience with Smart Buildings,2021,Energies,10.3390/en14154472,1996-1073
+"Z. Wang, C. Zhang, H. Li, Y. Zhao",A multi agent-based optimal control method for combined cooling and power systems with thermal energy storage,2021,Building Simulation,10.1007/s12273-021-0768-9,19963599 (ISSN)
+"H. Wang, C. Zhang, K. Li, X. Ma",Game theory-based multi-agent capacity optimization for integrated energy systems with compressed air energy storage,2021,Energy,10.1016/j.energy.2021.119777,03605442 (ISSN)
+"W. Devia, K. Agbossou, A. Cardenas",An evolutionary approach to modeling and control of space heating and thermal storage systems,2021,Energy And Buildings,10.1016/j.enbuild.2020.110674,03787788 (ISSN)
+"M Franceschelli, A Pilloni, A Gasparri",Multi-Agent Coordination of Thermostatically Controlled Loads by Smart Power Sockets for Electric Demand Side Management,2021,Ieee Transactions On Control Systems Technology,10.1109/TCST.2020.2974181,1063-6536
+"L Yu, Y Sun, ZB Xu, C Shen, D Yue, T Jiang, XH Guan",Multi-Agent Deep Reinforcement Learning for HVAC Control in Commercial Buildings,2021,Ieee Transactions On Smart Grid,10.1109/TSG.2020.3011739,1949-3053
+"S. Jin, S. Wang, F. Fang",Game theoretical analysis on capacity configuration for microgrid based on multi-agent system,2021,International Journal Of Electrical Power And Energy Systems,10.1016/j.ijepes.2020.106485,01420615 (ISSN)
+"M.W. Khan, J. Wang, L. Xiong",Optimal energy scheduling strategy for multi-energy generation grid using multi-agent systems,2021,International Journal Of Electrical Power And Energy Systems,10.1016/j.ijepes.2020.106400,01420615 (ISSN)
+"C.S. Lai, G. Locatelli, A. Pimm, X. Wu, L.L. Lai",A review on long-term electrical power system modeling with energy storage,2021,Journal Of Cleaner Production,10.1016/j.jclepro.2020.124298,09596526 (ISSN)
+"S. Chen, H. Zhang, J. Guan, Z. Rao",Agent-based modeling and simulation of stochastic heat pump usage behavior in residential communities,2020,Building Simulation,10.1007/s12273-020-0625-2,19963599 (ISSN)
+"M.J. Shabani, S.M. Moghaddas-Tafreshi","Fully-decentralized coordination for simultaneous hydrogen, power, and heat interaction in a multi-carrier-energy system considering private ownership",2020,Electric Power Systems Research,10.1016/j.epsr.2019.106099,03787796 (ISSN)
+"J. Zhu, Z. Jing, T. Ji, N.A. Larik",Energy-economy coupled simulation approach and simulator based on invididual-based model,2020,Energies,10.3390/en13112771,19961073 (ISSN)
+"C. Schnuelle, K. Kisjes, T. Stuehrmann, P. Thier, I. Nikolic, A. Von Gleich, S. Goessling-Reisemann",From niche to market-an agent-based modeling approach for the economic uptake of electro-fuels (power-to-fuel) in the german energy system,2020,Energies,10.3390/en13205522,19961073 (ISSN)
+"SY Song, H Leng",Modeling the Household Electricity Usage Behavior and Energy-Saving Management in Severely Cold Regions,2020,Energies,10.3390/en13215581,
+"T.D. Hutty, S. Dong, S. Brown",Suitability of energy storage with reversible solid oxide cells for microgrid applications,2020,Energy Conversion And Management,10.1016/j.enconman.2020.113499,01968904 (ISSN)
+"H Liu, JF Li, SY Ge",Research on hierarchical control and optimisation learning method of multi-energy microgrid considering multi-agent game,2020,Iet Smart Grid,10.1049/iet-stg.2019.0268,
+"E. Samadi, A. Badri, R. Ebrahimpour",Decentralized multi-agent based energy management of microgrid using reinforcement learning,2020,International Journal Of Electrical Power And Energy Systems,10.1016/j.ijepes.2020.106211,01420615 (ISSN)
+"C. Li, X. Jia, Y. Zhou, X. Li",A microgrids energy management model based on multi-agent system using adaptive weight and chaotic search particle swarm optimization considering demand response,2020,Journal Of Cleaner Production,10.1016/j.jclepro.2020.121247,09596526 (ISSN)
+"T Grubic, L Varga, YK Hu, A Tewari",Micro-generation technologies and consumption of resources: A complex systems' exploration,2020,Journal Of Cleaner Production,10.1016/j.jclepro.2019.119091,0959-6526
+"J. Walzberg, T. Dandres, N. Merveille, M. Cheriet, R. Samson",Should we fear the rebound effect in smart homes?,2020,Renewable And Sustainable Energy Reviews,10.1016/j.rser.2020.109798,13640321 (ISSN)
+"D. Then, P. Hein, T.M. Kneiske, M. Braun",Analysis of dependencies between gas and electricity distribution grid planning and building energy retrofit decisions,2020,Sustainability (Switzerland),10.3390/su12135315,20711050 (ISSN)
+"N. Loose, C. Thommessen, J. Mehlich, C. Derksen, S. Eicker",Unified energy agents for combined district heating and electrical network simulation,2020,Sustainability (Switzerland),10.3390/su12219301,20711050 (ISSN)
+"Mohamed A. Mohamed a, b, Tao Jin a, *, Wencong Su c,",Multi-agent energy management of smart islands using primal-dual method of multipliers,2020,Energy,,
+"Zhihui Zhanga, Rui Jinga, Jian Lina, Xiaonan Wangb, Koen H. van Damc, Meng Wangd, Chao Menga, Shan Xiea, Yingru Zhao",Combining agent-based residential demand modeling with design optimization for integrated energy systems planning and operation,2020,Applied Energy,,
+"H.V.V. Priyadarshana, M.A.K. Sandaru, K.T.M.U. Hemapala, W.D.A.S. Wijayapala",A review on multi-agent system based energy management systems for micro grids,2019,Aims Energy,10.3934/ENERGY.2019.6.924,23338326 (ISSN)
+"JR Vazquez-Canteli, Z Nagy",Reinforcement learning for demand response: A review of algorithms and modeling techniques,2019,Applied Energy,10.1016/j.apenergy.2018.11.002,0306-2619
+"X. Zhang, T. Yu",Fast Stackelberg equilibrium learning for real-time coordinated energy control of a multi-area integrated energy system,2019,Applied Thermal Engineering,10.1016/j.applthermaleng.2019.02.053,13594311 (ISSN)
+"W. Zeiler, T. Labeodan",Human-in-the-loop energy flexibility integration on a neighbourhood level: Small and Big Data management,2019,Building Services Engineering Research And Technology,10.1177/0143624418823190,01436244 (ISSN)
+"A. Chakrabarti, R. Proeglhoef, G.B. Turu, R. Lambert, A. Mariaud, S. Acha, C.N. Markides, N. Shah",Optimisation and analysis of system integration between electric vehicles and UK decentralised energy schemes,2019,Energy,10.1016/j.energy.2019.03.184,03605442 (ISSN)
+"A.M. Alishavandi, S.M. Moghaddas-Tafreshi",Interactive decentralized operation with effective presence of renewable energies using multi-agent systems,2019,International Journal Of Electrical Power And Energy Systems,,
+"Moghaddas-Tafreshi, Seyed Masoud, Mohseni, Soheil, Karami, Mohammad Ehsan,Kelly, Scott",optimal energy management of a grid connected multiple energy carrier micro-grid,2019,Applied Thermal Engineering,,
+"F. BÃ¼nning, M. Wetter, M. Fuchs, D. MÃ¼ller",Bidirectional low temperature district energy systems with agent-based control: Performance comparison and operation optimization,2018,Applied Energy,10.1016/j.apenergy.2017.10.072,03062619 (ISSN)
+"H. Lin, Y. Liu, Q. Sun, R. Xiong, H. Li, R. Wennersten",The impact of electric vehicle penetration and charging patterns on the management of energy hub â€“ A multi-agent system simulation,2018,Applied Energy,10.1016/j.apenergy.2018.08.083,03062619 (ISSN)
+"S. Behboodi, D.P. Chassin, N. Djilali, C. Crawford",Transactive control of fast-acting demand response based on thermostatic loads in real-time retail electricity markets,2018,Applied Energy,10.1016/j.apenergy.2017.07.058,03062619 (ISSN)
+"B.J. Claessens, D. Vanhoudt, J. Desmedt, F. Ruelens",Model-free control of thermostatically controlled loads connected to a district heating network,2018,Energy And Buildings,10.1016/j.enbuild.2017.08.052,03787788 (ISSN)
+"Y. Gao, Q. Ai",Hierarchical Coordination Control for Interconnected Operation of Electric-thermal-gas Integrated Energy System with Micro-energy Internet Clusters,2018,Ieee Journal Of Emerging And Selected Topics In Power Electronics,10.1109/JESTPE.2018.2838144,21686777 (ISSN)
+"L. Yang, X. Zhang, P. Gao",Research on heat and electricity coordinated dispatch model for better integration of wind power based on electric boiler with thermal storage,2018,"Iet Generation, Transmission And Distribution",10.1049/iet-gtd.2017.2032,17518687 (ISSN)
+"L Wang, S Sharkh, A Chipperfield",Optimal decentralized coordination of electric vehicles and renewable generators in a distribution network using A* search,2018,International Journal Of Electrical Power & Energy Systems,10.1016/j.ijepes.2017.11.036,0142-0615
+"A. Anvari-Moghaddam, A. Rahimi-Kian, M.S. Mirian, J.M. Guerrero",A multi-agent based energy management solution for integrated buildings and microgrid system,2017,Applied Energy,10.1016/j.apenergy.2017.06.007,03062619 (ISSN)
+"V.N. Coelho, M. Weiss Cohen, I.M. Coelho, N. Liu, F.G. GuimarÃ£es",Multi-agent systems applied for energy systems integration: State-of-the-art applications and trends in microgrids,2017,Applied Energy,10.1016/j.apenergy.2016.10.056,03062619 (ISSN)
+"A.N.M.M. Haque, P.H. Nguyen, T.H. Vo, F.W. Bliek",Agent-based unified approach for thermal and voltage constraint management in LV distribution network,2017,Electric Power Systems Research,10.1016/j.epsr.2016.11.007,03787796 (ISSN)
+"M.W. Khan, J. Wang",The research on multi-agent system for microgrid control and optimization,2017,Renewable And Sustainable Energy Reviews,10.1016/j.rser.2017.05.279,13640321 (ISSN)
+"S. Howell, Y. Rezgui, J.-L. Hippolyte, B. Jayan, H. Li",Towards the next generation of smart grids: Semantic and holonic multi-agent management of distributed energy resources,2017,Renewable And Sustainable Energy Reviews,10.1016/j.rser.2017.03.107,13640321 (ISSN)
+"S. Kolen, C. Molitor, L. Wagner, A. Monti",Two-level agent-based scheduling for a cluster of heating systems,2017,Sustainable Cities And Society,10.1016/j.scs.2017.01.014,22106707 (ISSN)
+"Karavas, Christos Spyridon
+Arvanitis, Konstantinos
+Papadakis, George",A game theory approach to multi-agent decentralized energy management of autonomous polygeneration microgrids,2017,Energies,,
+"S. Skarvelis-Kazakos, P. Papadopoulos, I. Grau Unda, T. Gorman, A. Belaidi, S. Zigan",Multiple energy carrier optimisation with intelligent agents,2016,Applied Energy,10.1016/j.apenergy.2015.10.130,03062619 (ISSN)
+"Y.-S. Li, H.-G. Zhang, B.-N. Huang, F. Teng",Distributed optimal economic dispatch based on multi-agent system framework in combined heat and power systems,2016,Applied Sciences (Switzerland),10.3390/app6100308,20763417 (ISSN)
+"MW Ahmad, M Mourshed, B Yuce, Y Rezgui",Computational intelligence techniques for HVAC systems: A review,2016,Building Simulation,10.1007/s12273-016-0285-4,1996-3599
+"Gengfeng Li, Zhaohong Bie ⇑, Yu Kou, Jiangfeng Jiang, Mattia Bettinelli",Reliability evaluation of integrated energy systems based on smart agent communication,2016,Applied Energy,,
+,,,,,
+"H. Harb, J.-N. Paprott, P. Matthes, T. SchÃ¼tz, R. Streblow, D. MÃ¼ller",Decentralized scheduling strategy of heating systems for balancing the residual load,2015,Building And Environment,10.1016/j.buildenv.2014.12.015,03601323 (ISSN)
+"CS Karavas, G Kyriakarakos, KG Arvanitis, G Papadakis",A multi-agent decentralized energy management system based. on distributed intelligence for the design and control of autonomous polygeneration microgrids,2015,Energy Conversion And Management,10.1016/j.enconman.2015.06.021,0196-8904
+"M. Sonnenschein, O. LÃ¼nsdorf, J. Bremer, M. TrÃ¶schel",Decentralized control of units in smart grids for the support of renewable energy supply,2015,Environmental Impact Assessment Review,10.1016/j.eiar.2014.08.004,01959255 (ISSN)
+"N. Blaauwbroek, P.H. Nguyen, M.J. Konsman, H. Shi, R.I.G. Kamphuis, W.L. Kling",Decentralized Resource Allocation and Load Scheduling for Multicommodity Smart Energy Systems,2015,Ieee Transactions On Sustainable Energy,10.1109/TSTE.2015.2441107,19493029 (ISSN)
+"T. Labeodan, K. Aduda, G. Boxem, W. Zeiler","On the application of multi-agent systems in buildings for improved building operations, performance and smart grid interaction - A survey",2015,Renewable And Sustainable Energy Reviews,10.1016/j.rser.2015.05.081,13640321 (ISSN)
+"J.M. Gonzalez De Durana, O. Barambones, E. Kremers, L. Varga",Agent based modeling of energy networks,2014,Energy Conversion And Management,10.1016/j.enconman.2014.03.018,01968904 (ISSN)
+"P. Allen, L. Varga",Modelling sustainable energy futures for the UK,2014,Futures,10.1016/j.futures.2014.01.005,00163287 (ISSN)
+"D. Vanhoudt, D. Geysen, B. Claessens, F. Leemans, L. Jespers, J. Van Bael",An actively controlled residential heat pump: Potential on peak shaving and maximization of self-consumption of renewable energy,2014,Renewable Energy,10.1016/j.renene.2013.10.021,09601481 (ISSN)
+"G Kyriakarakos, DD Piromalis, AI Dounis, KG Arvanitis, G Papadakis",Intelligent demand side energy management system for autonomous polygeneration microgrids,2013,Applied Energy,10.1016/j.apenergy.2012.10.011,0306-2619
+"G. Sorda, Y. Sunak, R. Madlener",An agent-based spatial simulation to evaluate the promotion of electricity from agricultural biogas plants in Germany,2013,Ecological Economics,10.1016/j.ecolecon.2013.01.022,09218009 (ISSN)
+"F Chingcuanco, EJ Miller",A microsimulation model of urban energy use: Modelling residential space heating demand in ILUTE,2012,Computers Environment And Urban Systems,10.1016/j.compenvurbsys.2011.11.005,0198-9715
+"B.M.S. Hodge, S. Huang, J.D. Siirola, J.F. Pekny, G.V. Reklaitis",A multi-paradigm modeling framework for energy systems simulation and analysis,2011,Computers And Chemical Engineering,10.1016/j.compchemeng.2011.05.005,00981354 (ISSN)
+"T. Krause, G. Andersson, K. FrÃ¶hlich, A. Vaccaro","Multiple-energy carriers: Modeling of production, delivery, and consumption",2011,Proceedings Of The Ieee,10.1109/JPROC.2010.2083610,00189219 (ISSN)
+"A. Faber, M. Valente, P. Janssen",Exploring domestic micro-cogeneration in the Netherlands: An agent-based demand model for technology diffusion,2010,Energy Policy,10.1016/j.enpol.2010.01.008,03014215 (ISSN)
+"G. Conte, G. Morganti, A.M. Perdon, D. Scaradozzi",Multi-agent system theory for resource management in home automation systems,2009,Journal Of Physical Agents,10.14198/JoPha.2009.3.2.04,18880258 (ISSN)
+J. Jackson,Are US utility standby rates inhibiting diffusion of customer-owned generating systems?,2007,Energy Policy,10.1016/j.enpol.2006.06.001,03014215 (ISSN)
+,,,,,
+,,,,,
+,,,,,
+zheng ma et al,The application of ontologies in multi-agent systems in energy sectors a coping review ,2019,Energies,,
+"Cai, Kim, Rita",A general multi-agent control approach for building energy system optimization,2016,Energy And Building ,,
+"Seyed EhsanAhmadia, Delnia Sadeghia, Mousa Marzbandab, Abdullah Abusorrahbc, Khaled Sedraoui",Decentralized bi-level stochastic optimization approach for multi-agent multi-energy networked micro-grids with multi-energy storage technologies,2022,Energy,,
+"P. Zhao, S. Suryanarayanan, M.G. Simoes",An energy management system for building structures using a multi-agent decision-making control methodology,2013,Ieee Transactions On Industry Applications,,
+"A Gonzalez-Briones, J Prieto, F De La Prieta, E Herrera-Viedma, JM Corchado",Energy Optimization Using a Case-Based Reasoning Strategy,2018,Sensors,,
+"N Zhang, QY Sun, JW Wang, LX Yang",Distributed Adaptive Dual Control via Consensus Algorithm in the Energy Internet,2021,Ieee Transactions On Industrial Informatics,,
+"DH Nguyen, T Ishihara",Distributed peer-to-peer energy trading for residential fuel cell combined heat and power systems,2021,International Journal Of Electrical Power & Energy Systems,,
+"L. Xi, L. Yu, Y. Xu, S. Wang, X. Chen",A Novel Multi-Agent DDQN-AD Method-Based Distributed Strategy for Automatic Generation Control of Integrated Energy Systems,2020,Ieee Transactions On Sustainable Energy,,
+M.E. El-Hawary,The smart grid - State-of-the-art and future trends,2014,Electric Power Components And Systems,,
